@@ -1,2 +1,3 @@
-# uusi-projekti1
-Testi
+# New Git pjoject
+My first repo in git
+
